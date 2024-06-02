@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizan Ahmed</h1>
-<h3 align="center">A passionate backend developer from Pakistan</h3>
+<h3 align="center">A passionate backend developer from Karachi, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan1487&label=Profile%20views&color=0e75b6&style=flat" alt="faizan1487" /> </p>
 
