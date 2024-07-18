@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan1487&label=Profile%20views&color=0e75b6&style=flat" alt="faizan1487" /> </p>
 
-- 🌱 I’m currently learning **Data Engineering using SQL, Python, PySpark, alongside Test-Driven Development in Django Rest Framework.**
+- 🌱 I’m currently learning **Graphql, Celery and Test-Driven Development in Django.**
 
 - 💬 Ask me about **python, django and django rest**
 
