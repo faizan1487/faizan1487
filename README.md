@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan1487&label=Profile%20views&color=0e75b6&style=flat" alt="faizan1487" /> </p>
 
-- 🌱 I’m currently learning **Graphql, Celery and Test-Driven Development in Django.**
-
-- 💬 Ask me about **python, django and django rest**
-
-- 📫 How to reach me **faizanahmed14877@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/faizan-ahmed1487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizan-ahmed1487" height="30" width="40" /></a>
